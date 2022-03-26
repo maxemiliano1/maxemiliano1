@@ -1,7 +1,7 @@
 ## Olá eu sou Max Emiliano
 -🌱 Estudando Html,Css,JavaScript
 
-<div align="center">
+<div align="left">
     <a href="https://github.com/maxemiliano1">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api?username=maxemiliano1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
