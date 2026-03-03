@@ -8,37 +8,34 @@ Here you'll find a collection of my projects, including work developed through p
 ## 🚀 About Me
 
 - 🎓 Systems Information student at Estácio University.
-- 💻 Focused on Front-End Development (HTML, CSS, JavaScript, React).
-- 🛠️ Currently studying at B7Web's Full Stack Developer course.
+- 💻 Interested in software development and backend technologies.
+- 🛠️ Studying programming through courses and personal projects.
 - 🌱 Always learning and improving my programming skills.
-- ✨ Passionate about creating clean and functional projects.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📂 Project Organization
 
 - **random_initial_projects**: My first random projects and experiments.
-- **b7web_projects**: Projects developed during the B7Web Full Stack course, organized by technologies (HTML, JavaScript, React).
-- **personal_projects**: Personal projects created independently, outside of courses.
+- **b7web_projects**: Projects developed during the B7Web course.
+- **personal_projects**: Personal projects created independently.
 
 ---
 
 ## 📫 Contact Me
 
 - Email: maxemilio13@hotmail.com
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/max-emiliano-cardoso-e-silva-370a87221/)
-- GitHub: [github.com/maxemiliano1](https://github.com/maxemiliano1)
-
----
+- LinkedIn: https://www.linkedin.com/in/max-emiliano-cardoso-e-silva-370a87221/
+- GitHub: https://github.com/maxemiliano1
