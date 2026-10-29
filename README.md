@@ -36,6 +36,6 @@ Here you'll find a collection of my projects, including work developed through p
 
 ## 📫 Contact Me
 
-- Email: maxemilio13@hotmail.com
+- Email: max.emiliocardoso@gmail.com
 - LinkedIn: https://www.linkedin.com/in/max-emiliano-cardoso-e-silva-370a87221/
 - GitHub: https://github.com/maxemiliano1
